@@ -4,7 +4,7 @@
 ![Watson](images/watson.gif)
 ![IBM Bluemix](images/ibm.jpg)
 
-## Cohort 2016-05-23
+## Cohort 2016-09-26
 
 ### Food Schedule
   - Monday: 8am - 5pm (Breakfast and Lunch served)
@@ -45,7 +45,13 @@
   - Agile
 
 #### Cloud 9 Setup
-  - https://c9.io/
+  - Register for edX (free)
+  - https://www.edx.org/
+  - They will send you a confirmation email. Click link to activate.
+  - Go to the following URL to create your Cloud 9 account. Login using your edX account.
+  - https://cs50.io/
+  - After you have a running virtual machine, go to your dashboard, which is the URL + your username
+  - https://cs50.io/USERNAME
   - Create a Custom Ubuntu Workspace
   - Open Terminal
 
@@ -59,7 +65,7 @@ vi ~/.gitconfig
 exit
 ```
 
-  - To follow me on C9: [Chyld's C9](https://ide.c9.io/chyld/bluemix)
+  - To follow me on C9: [Chyld's C9](https://cs50.io/chyld1/bluemix)
 
 #### Git & JazzHub
   - [Git](http://git-scm.com/)
