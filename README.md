@@ -52,8 +52,6 @@
   - https://cs50.io/
   - After you have a running virtual machine, go to your dashboard, which is the URL + your username
   - https://cs50.io/USERNAME
-  - OR
-  - https://c9.io/USERNAME
   - Create a Custom Ubuntu Workspace
   - Open Terminal
 
