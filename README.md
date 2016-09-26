@@ -56,11 +56,9 @@
   - Open Terminal
 
 ```sh
-rm README.md
 wget https://raw.githubusercontent.com/chyld/devops/master/c9-setup.sh
 chmod +x c9-setup.sh
 ./c9-setup.sh
-rm c9-setup.sh
 vi ~/.gitconfig
 exit
 ```
@@ -144,25 +142,10 @@ npm test # to run all tests
   - HTTP, https://www.w3.org/Protocols/rfc2616/rfc2616.txt
   - Methods: `get, post, put, delete`
   - Use `http` Linux client on `cnn.com` and others
-  - [https://stamplay.com](https://stamplay.com)
-  - Create Model - Create, Update, Select & Delete
-  - `http VERB https://____.stamplayapp.com/api/cobject/v1/MODEL a=b c=3 d=1/2/2015 e=true`
   - [Express.js](http://expressjs.com/)
-  - Performance: CPU Bound, Memory Bound, I/O Bound
-  - Async programming with callbacks & promises
-  - Node.js perf test with Apache Bench
-  - Run sequentially `-c 1`, then run in parallel `-c 1000`
-  - `ab -n __ -c __ http://0.0.0.0:8080/`
-  - Compare perf to Rails app
-  - Create simple index.html page - serve with `http-server`
   - Build Basic Express App
     - `req.params`
     - `req.body`
-  - Have the Express app use the `request` npm module to interface with the Stamplay MongoDB
-    - Create Dog
-    - Update Dog
-    - List Dogs
-    - Delete Dog
 
 #### DevOps Services
   - https://hub.jazz.net/
