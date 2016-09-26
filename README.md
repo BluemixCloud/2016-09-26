@@ -206,13 +206,11 @@ npm test # to run all tests
     - Show Trending Games on Twitch, https://api.twitch.tv/kraken/games/top
 
 #### Project 2
-Adding items to a Trello ToDo list via SMS
+From Angular send a message to Express then Twilio and finally to your Phone
 
 - Prerequisites
   - [Twilio Phone Numbers](https://www.twilio.com/user/account/messaging/phone-numbers)
-  - [Stamplay](https://stamplay.com/)
-  - [Trello](https://trello.com/)
-
+  
 Steps
 
 1. Stamplay: Make a webhook, call it `todo`. Test the webhook with `http` client.
