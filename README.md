@@ -110,7 +110,7 @@ git push
 
 ![JS Runtime](images/js-runtime.png)
 
-#### Project 0
+#### Project A
   - This project will be done as a pair
   - Pick a project manager
   - The PM will go here, https://hub.jazz.net/project/chyld/fundamentals
@@ -167,6 +167,18 @@ npm test # to run all tests
   - `cf apps`
   - `cf services`
   - `cf --help`
+
+#### Project B
+  - Create empty project on JazzHub, clone it
+  - Add package.json
+  - Add .gitignore
+  - Add index.js
+  - Add some endpoints (home, hello, square, dice, roll, sum, etc)
+  - Add manifest.yml
+  - cf push (local deploy)
+  - Add CI pipeline for continuous deployments
+  - https://www.npmjs.com/package/get-stock
+  - https://www.npmjs.com/package/node-movie
 
 #### OpenWhisk
   - Distributed, Event Driven Compute
