@@ -201,6 +201,7 @@ npm test # to run all tests
     - `ng-click` and `function`
     - Bootstrap
     - Show Trending Games on Twitch, https://api.twitch.tv/kraken/games/top
+    - Random Numbers: https://qrng.anu.edu.au/API/api-demo.php
     - Connect to Express API's in Project B
 
 #### OpenWhisk
