@@ -180,6 +180,29 @@ npm test # to run all tests
   - https://www.npmjs.com/package/get-stock
   - https://www.npmjs.com/package/node-movie
 
+#### Chrome Plugins
+  - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+  - [Angular Inspector](https://chrome.google.com/webstore/detail/ng-inspector-for-angularj/aadgmnobpdmgmigaicncghmmoeflnamj)
+
+#### Front End Technologies
+  - Browser
+  - Angular, JavaScript MVC Framework, https://angularjs.org/
+  - Twitter Bootstrap CSS Framework, http://getbootstrap.com/
+  - Highcharts Analytical Charting, http://www.highcharts.com/
+
+#### Project C
+  - [Fullstack Template](https://hub.jazz.net/project/chyld/full-stack-template)
+  - Fork and Clone Template
+  - Angular Demo
+    - Scalar Variables
+    - Array and Object Variables
+    - Mustache Syntax
+    - `$scope`
+    - `ng-click` and `function`
+    - Bootstrap
+    - Show Trending Games on Twitch, https://api.twitch.tv/kraken/games/top
+    - Connect to Express API's in Project B
+
 #### OpenWhisk
   - Distributed, Event Driven Compute
   - [Notes & Lab](openwhisk.md)
@@ -194,28 +217,6 @@ npm test # to run all tests
   - https://console.ng.bluemix.net/catalog/starters/node-red-starter/
   - Additional Nodes & Flows, http://flows.nodered.org/
   - Create basic NodeRED flows, exercise functionality
-
-#### Chrome Plugins
-  - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
-  - [Angular Inspector](https://chrome.google.com/webstore/detail/ng-inspector-for-angularj/aadgmnobpdmgmigaicncghmmoeflnamj)
-
-#### Front End Technologies
-  - Browser
-  - Angular, JavaScript MVC Framework, https://angularjs.org/
-  - Twitter Bootstrap CSS Framework, http://getbootstrap.com/
-  - Highcharts Analytical Charting, http://www.highcharts.com/
-
-#### Project 1
-  - [Fullstack Template](https://hub.jazz.net/project/chyld/full-stack-template)
-  - Fork and Clone Template
-  - Angular Demo
-    - Scalar Variables
-    - Array and Object Variables
-    - Mustache Syntax
-    - `$scope`
-    - `ng-click` and `function`
-    - Bootstrap
-    - Show Trending Games on Twitch, https://api.twitch.tv/kraken/games/top
 
 #### Project 2
 From Angular send a message to Express then Twilio and finally to your Phone
