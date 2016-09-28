@@ -200,9 +200,8 @@ npm test # to run all tests
     - `$scope`
     - `ng-click` and `function`
     - Bootstrap
-    - Show Trending Games on Twitch, https://api.twitch.tv/kraken/games/top
     - Random Numbers: https://qrng.anu.edu.au/API/api-demo.php
-    - Connect to Express API's in Project B
+    - Connect to Stock Quote Service in Project B
 
 #### OpenWhisk
   - https://new-console.ng.bluemix.net/openwhisk/
@@ -213,6 +212,10 @@ npm test # to run all tests
     - `Authorization: Basic <based64 encoded key>`
     - [Base64 Utility](https://www.base64encode.org/)
     - `POST https://openwhisk.ng.bluemix.net/api/v1/namespaces/{org_space}/actions/{action-name}?blocking=true`
+  - Create basic Actions (math related, sum, power, etc)
+  - Create service which searches for Gifs on Glify
+    - http://api.giphy.com/v1/gifs/search?q=_______&api_key=dc6zaTOxFJmzC
+  - Add to Angular App in Project C
 
 #### NodeRED
   - http://nodered.org/
