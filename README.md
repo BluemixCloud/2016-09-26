@@ -204,6 +204,7 @@ npm test # to run all tests
     - Connect to Express API's in Project B
 
 #### OpenWhisk
+  - https://new-console.ng.bluemix.net/openwhisk/
   - Distributed, Event Driven Compute
   - [Notes & Lab](openwhisk.md)
   - To call from other code
